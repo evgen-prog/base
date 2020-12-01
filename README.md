@@ -27,3 +27,7 @@ https://www.timeanddate.com/worldclock/timezone/utc
 Без ограничений.
 С сылкой на оригинал.
 
+Нашел ошибку?
+
+сообщить автору рапозитария.
+
