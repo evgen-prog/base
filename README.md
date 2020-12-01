@@ -29,5 +29,5 @@ https://www.timeanddate.com/worldclock/timezone/utc
 
 Нашел ошибку?
 
-сообщить автору рапозитария.
+Сообщить автору рапозитария.
 
