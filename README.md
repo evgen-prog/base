@@ -22,12 +22,4 @@ https://www.onlinegdb.com/
 
 https://www.timeanddate.com/worldclock/timezone/utc
 
-Как я могу использовать исходный код?
-
-Без ограничений.
-С сылкой на оригинал.
-
-Нашел ошибку?
-
-Сообщить автору репозитария.
 
