@@ -1,4 +1,3 @@
-//from home
 #include <stdio.h>
 #include <time.h>
 #define L_YEAR 366
